@@ -1,0 +1,9 @@
+metric,unit,n_scenarios_computable,mean_improvement,min_improvement,max_improvement
+Time to Detect Anomaly (s),%,1,90.48737522019987,90.48737522019987,90.48737522019987
+Prediction Lead Time (s),%,1,999.0,999.0,999.0
+Localization Error (cells),%,1,68.53262478091823,68.53262478091823,68.53262478091823
+False Alarms (count),%,4,0.0,0.0,0.0
+"RUL Estimation Error (s, mean abs)",%,0,,,
+Damage Prevented (percentage points vs. unmitigated),percentage points,4,31.34321923211467,2.721284174438443,56.27763953990469
+Reaction Latency (s),%,0,,,
+Computational Cost (ms/step),%,4,-647.4062928977011,-746.8561104686177,-535.3499172097468
